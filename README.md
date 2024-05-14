@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abeerchoubey
-- 👀 I’m interested in dat Science
+- 👀 I’m interested in data Science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Telegram, and Email
 - 📫 How to reach me telegram @abeersdl and Email abeer.choubey@icloud.com
